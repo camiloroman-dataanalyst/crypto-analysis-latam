@@ -38,10 +38,10 @@ CoinGecko API — datos de mercado en tiempo real
 
 ## 📷 Capturas del dashboard
 ### Resumen General del Mercado
-![Resumen](imagenes/pagina1_resumen.png)
+![Resumen](imagenes/Pagina%20general.png)
 
 ### Análisis Bitcoin y Ethereum
-![Bitcoin ETH](imagenes/pagina2_bitcoin_ethereum.png)
+![Bitcoin ETH](imagenes/BTC%20y%20ETH.png)
 
 ## ⚠️ Limitaciones
 - Los datos son una fotografía del mercado en un momento 
